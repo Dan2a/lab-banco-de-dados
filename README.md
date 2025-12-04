@@ -67,5 +67,5 @@ Para realizar a carga dos dados:
 
 ## Desenvolvedores
 
-- **Daniel Andrade**  
-- **Bruno Rodrigues**
+- **[Daniel Andrade](https://github.com/Dan2a)**  
+- **[Bruno Rodrigues](https://github.com/brunordgsmrr)**  
